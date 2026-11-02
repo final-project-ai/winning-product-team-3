@@ -38,10 +38,9 @@ Tugas Akhir Mata Kuliah Kecerdasan Bisnis Buatan – Bisnis Digital, Universitas
 
 ## Tools yang Digunakan
 
-- **AI Agent / Harness:** Hermes Agent, Claude Code
+- **AI Agent / Harness:** Hermes Agent
 - **Motion Grafis:** Remotion
 - **Pemasaran:** Twitter/X, LinkedIn, Instagram, DM langsung
-- [tambahkan tools lain]
 
 ## Catatan Penggunaan AI
 
