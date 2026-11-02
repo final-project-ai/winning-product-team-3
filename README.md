@@ -1,16 +1,16 @@
-# Winning Product – Kelompok [Nama Kelompok]
+# Winning Product – Kelompok 3
 
-Tugas Akhir Mata Kuliah [Nama Mata Kuliah] – Bisnis Digital, Universitas Diponegoro
+Tugas Akhir Mata Kuliah Kecerdasan Bisnis Buatan – Bisnis Digital, Universitas Diponegoro
 
 ## Anggota Kelompok
 
 | No | Nama | NIM | Akun GitHub |
 |----|------|-----|-------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | Namera Festya Erystona | 12010224120005 | |
+| 2 | Ni Putu Ayu Anastasya | 12010224120011 | |
+| 3 | Annisa Sofiarachma Ridzwan | 1201022420019 | |
+| 4 | Alyssa Nadela Dewanti | 12010224130026 | alyssa-nadela |
+| 5 | Layyinatus Syifa Lailaatino | 12010224140053 | |
 
 ## Alur Proyek
 
