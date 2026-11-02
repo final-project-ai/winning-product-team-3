@@ -8,7 +8,7 @@ Tugas Akhir Mata Kuliah Kecerdasan Bisnis Buatan – Bisnis Digital, Universitas
 |----|------|-----|-------------|
 | 1 | Namera Festya Erystona | 12010224120005 | |
 | 2 | Ni Putu Ayu Anastasya | 12010224120011 | |
-| 3 | Annisa Sofiarachma Ridzwan | 1201022420019 | |
+| 3 | Annisa Sofiarachma Ridzwan | 12010224120019 | |
 | 4 | Alyssa Nadela Dewanti | 12010224130026 | alyssa-nadela |
 | 5 | Layyinatus Syifa Lailaatino | 12010224140053 | |
 
